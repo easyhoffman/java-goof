@@ -1,0 +1,3 @@
+Host github.com
+ HostName hitghub.com
+ IdentityFile ~/.ssh/id_andre
